@@ -1,2 +1,2 @@
 # odin-recipes
-Basic website demontrating basic HTML code
+Basic website demonstrating basic HTML code
